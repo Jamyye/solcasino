@@ -102,7 +102,7 @@ export function WelcomeBanner() {
       <div>
         <h1>Welcome to the Banana Farm 🐵🍌</h1>
         <p>
-          A fair, simple, and decentralized casino on Solana built with Gamba.
+          A fair, simple, and decentralized casino on Solana.
         </p>
       </div>
       <Buttons>
