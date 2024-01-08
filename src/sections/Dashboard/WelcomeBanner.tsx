@@ -110,7 +110,7 @@ export function WelcomeBanner() {
           🚀 Add Liquidity
         </button>
         <button onClick={() => window.open('https://discord.gg/HSTtFFwR', '_blank')}>
-          💬 Discord
+          💬 Join Discord
         </button>
       </Buttons>
     </Welcome>
