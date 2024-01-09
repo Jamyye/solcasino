@@ -102,7 +102,7 @@ export function WelcomeBanner() {
       <div>
         <h1>Welcome to the Banana Farm 🐵🍌</h1>
         <p>
-          A fair and decentralized casino on Solana.
+          A fast, and provably fair decentralized casino on Solana.
         </p>
       </div>
       <Buttons>
